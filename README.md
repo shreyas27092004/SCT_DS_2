@@ -86,7 +86,7 @@ This repository contains my submission for **Task 02** of the Data Science Inter
 ![Gender Survival](images/survival_by_gender.png)
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](images/model_accuracy.png)
+![Correlation Heatmap](images/heatmap.png)
 
 ---
 
