@@ -80,13 +80,13 @@ This repository contains my submission for **Task 02** of the Data Science Inter
 ![Age Distribution](images/age_distribution.png)
 
 ### Passenger Class vs Survival Rate
-![Pclass Survival](images/pclass_survival.png)
+![Pclass Survival](images/survival_by_class.png)
 
 ### Gender vs Survival Rate
-![Gender Survival](images/gender_survival.png)
+![Gender Survival](images/survival_by_gender.png)
 
 ### Feature Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/model_accuracy.png)
 
 ---
 
