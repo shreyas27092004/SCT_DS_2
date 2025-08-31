@@ -145,6 +145,7 @@ sct-ds-2/
 │   ├── pclass_survival.png
 │   ├── gender_survival.png
 │   └── correlation_heatmap.png
+│   └── heatmap.png
 └── README.md                       # Project documentation
 ```
 
